@@ -1,0 +1,51 @@
+.task{
+    margin: 4rem 6rem;
+    color: black;
+}
+
+.task h1{
+    font-size: 3rem;
+}
+
+.taskcard {
+    margin-top: 3rem;
+    flex-direction: column;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    position: relative;
+    margin-bottom: 50px;
+    min-height: 300px; 
+  }
+
+.t-card{
+    width: 50%;
+    box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    color: white;
+    background-color: #5C5470;
+    padding: 1rem .8rem;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.t-card p{
+    color: #9DB2BF;
+    justify-content: start;
+    text-align: left;
+}
+
+.editTaskCard{
+    font-size: 35px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.editTaskCard h4{
+    display: inline-block;
+}
+
+.editTaskCard svg{
+    cursor: pointer;
+}

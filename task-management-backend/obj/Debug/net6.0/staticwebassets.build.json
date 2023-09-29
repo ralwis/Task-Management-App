@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vosJhT5YdIJ5TTIikRfHmT8LHOqL5mojn3coyPQEGNo=",
+  "Source": "task-management-backend",
+  "BasePath": "_content/task-management-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
